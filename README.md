@@ -1,4 +1,4 @@
-<img src="https://github.com/maudeve-it/The-Gate-Opener_SIM800L-testing-code/blob/main/Apricancello_testing_SIM800.pdf" width="750" height="530">
+<img src="https://github.com/maudeve-it/The-Gate-Opener_SIM800L-testing-code/blob/main/Apricancello_testing_SIM800.png" width="750" height="530">
 
 
 # The-Gate-Opener - SIM800L testing sketch
