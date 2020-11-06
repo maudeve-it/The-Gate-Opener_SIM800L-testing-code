@@ -1,3 +1,6 @@
+<img src="https://github.com/maudeve-it/The-Gate-Opener_SIM800L-testing-code/blob/main/Apricancello_testing_SIM800.pdf" width="750" height="530">
+
+
 # The-Gate-Opener - SIM800L testing sketch
 
 Arduino sketch code used testing SIM800 in video 3: https://youtu.be/i8BkrBgBeFA
