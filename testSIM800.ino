@@ -62,9 +62,9 @@ char ch="";
 
 
 // the below routine replace my personal phone number in messages moving between arduino and SIM800 and USB cable
-// that let me registring/filming PC serial monitor while using running this sketch 
-// replacing "personal_phone_number" string with your phone number, below here
-// you will see "11223344" on serial moditor instead of your number. 
+// that let me registring/filming PC serial monitor while using running this sketch without showing my phone number. 
+// Replace "personal_phone_number" string with phone number needing hiding.
+// you will see "11223344" on serial moditor instead of that number. 
 
 void  replaceMyNumber(String *scommand) {
 String str;
