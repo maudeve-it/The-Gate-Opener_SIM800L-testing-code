@@ -61,16 +61,6 @@ char ch="";
 
 
 
-
-
-
-
-
-
-
-
-
-
 // the below routine replace my personal phone number in messages moving between arduino and SIM800 and USB cable
 // that let me registring/filming PC serial monitor while using running this sketch 
 // replacing "personal_phone_number" string with your phone number, below here
