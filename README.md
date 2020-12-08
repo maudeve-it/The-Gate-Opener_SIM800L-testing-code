@@ -6,7 +6,7 @@
 
 Arduino sketch code and KiCad scheme used testing SIM800 in video 3: https://youtu.be/LCFofmFuiNI, and video 4: https://youtu.be/lVvgDTjK2wY
 
-Create a "testSIM800" folder in your Arduino sketch folder and download into the "testSIM800.ino". 
+Create a "testSIM800" folder in your Arduino sketch folder and download into the "testSIM800.ino".
 
 
 ---
